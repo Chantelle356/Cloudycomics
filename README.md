@@ -173,6 +173,7 @@
         </div>
     </div>
 
+
     <!-- Modal for displaying episodes -->
     <div id="myModal" class="modal">
         <div class="modal-content" id="modal-content">
@@ -321,3 +322,6 @@
     </script>
 </body>
 </html>
+
+
+    
